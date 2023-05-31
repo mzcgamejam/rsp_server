@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "h77IFx9ZCRUi9mklcINbjfONujtDaOkV13j5Cm9fAY6EKdtdDV8FC4KjLvrEE5+rvroBrkmPIK1LQqD/08Tyxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\BattleTimer\\BattleTimer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MZC02-WDB\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MZC02-WDB\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,1 @@
+java -jar C:\\GameLift_12_22_2020\\GameLift_12_22_2020\\GameLiftLocal-1.0.5\\GameLiftLocal.jar -p 9080

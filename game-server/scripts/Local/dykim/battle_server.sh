@@ -1,0 +1,1 @@
+C:\\Projects\\git\\ctc-game-server\\BattleServer\\bin\\Debug\\BattleServer.exe
