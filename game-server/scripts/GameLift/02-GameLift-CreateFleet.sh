@@ -1,7 +1,7 @@
 # https://docs.aws.amazon.com/cli/latest/reference/gamelift/create-fleet.html
 # Set variables to suit your development environment
-FLEET_NAME=BattleFleet20230530
-BUILD_ID=build-545d2f88-9427-41d3-b17a-9a42ba811b03
+FLEET_NAME=BattleFleet
+BUILD_ID=
 EC2_INSTANCE_TYPE=c5.large
 FLEET_TYPE=SPOT
 LAUNCH_PATH=BattleServer.exe
@@ -15,8 +15,8 @@ RUNTIME_CONFIGURATION='ServerProcesses=[
 {LaunchPath="C:\Game\BattleServer.exe",Parameters=50007,ConcurrentExecutions=1},
 {LaunchPath="C:\Game\BattleServer.exe",Parameters=50008,ConcurrentExecutions=1}
 ]'
-INSTANCE_ROLE_ARN='arn:aws:iam::961770019511:role/mzc-game-gamelift-fleet-role'
-PROFILE=gaming
+INSTANCE_ROLE_ARN=
+PROFILE=
 
 aws gamelift create-fleet \
 --name "$FLEET_NAME" \
