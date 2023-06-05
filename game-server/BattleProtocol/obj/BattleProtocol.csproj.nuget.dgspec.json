@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\BattleProtocol\\BattleProtocol.csproj": {}
+    "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\BattleProtocol\\BattleProtocol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\BattleProtocol\\BattleProtocol.csproj": {
+    "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\BattleProtocol\\BattleProtocol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\BattleProtocol\\BattleProtocol.csproj",
+        "projectUniqueName": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\BattleProtocol\\BattleProtocol.csproj",
         "projectName": "BattleProtocol",
-        "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\BattleProtocol\\BattleProtocol.csproj",
+        "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\BattleProtocol\\BattleProtocol.csproj",
         "packagesPath": "C:\\Users\\MZC02-WDB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\BattleProtocol\\obj\\",
+        "outputPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\BattleProtocol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MZC02-WDB\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonType\\CommonType.csproj": {
-                "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonType\\CommonType.csproj"
+              "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\CommonType\\CommonType.csproj": {
+                "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\CommonType\\CommonType.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonType\\CommonType.csproj": {
+    "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\CommonType\\CommonType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonType\\CommonType.csproj",
+        "projectUniqueName": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\CommonType\\CommonType.csproj",
         "projectName": "CommonType",
-        "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonType\\CommonType.csproj",
+        "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\CommonType\\CommonType.csproj",
         "packagesPath": "C:\\Users\\MZC02-WDB\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonType\\obj\\",
+        "outputPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\CommonType\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MZC02-WDB\\AppData\\Roaming\\NuGet\\NuGet.Config",

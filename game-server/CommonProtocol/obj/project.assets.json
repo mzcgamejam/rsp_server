@@ -246,11 +246,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonProtocol\\CommonProtocol.csproj",
+      "projectUniqueName": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\CommonProtocol\\CommonProtocol.csproj",
       "projectName": "CommonProtocol",
-      "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonProtocol\\CommonProtocol.csproj",
+      "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\CommonProtocol\\CommonProtocol.csproj",
       "packagesPath": "C:\\Users\\MZC02-WDB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonProtocol\\obj\\",
+      "outputPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\CommonProtocol\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MZC02-WDB\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -267,8 +267,8 @@
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonType\\CommonType.csproj": {
-              "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonType\\CommonType.csproj"
+            "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\CommonType\\CommonType.csproj": {
+              "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\CommonType\\CommonType.csproj"
             }
           }
         }

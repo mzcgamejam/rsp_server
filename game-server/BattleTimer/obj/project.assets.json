@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\BattleTimer\\BattleTimer.csproj",
+      "projectUniqueName": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\BattleTimer\\BattleTimer.csproj",
       "projectName": "BattleTimer",
-      "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\BattleTimer\\BattleTimer.csproj",
+      "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\BattleTimer\\BattleTimer.csproj",
       "packagesPath": "C:\\Users\\MZC02-WDB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\BattleTimer\\obj\\",
+      "outputPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\BattleTimer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MZC02-WDB\\AppData\\Roaming\\NuGet\\NuGet.Config",
