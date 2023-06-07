@@ -16,7 +16,7 @@ RUNTIME_CONFIGURATION='ServerProcesses=[
 {LaunchPath="C:\Game\BattleServer.exe",Parameters=50008,ConcurrentExecutions=1}
 ]'
 INSTANCE_ROLE_ARN=
-REGION=
+REGION=ap-northeast-2
 PROFILE=
 
 aws gamelift create-fleet \

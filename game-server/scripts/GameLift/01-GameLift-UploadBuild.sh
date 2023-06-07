@@ -9,7 +9,7 @@ OS=WINDOWS_2016
 BUILD_NAME=BattleServer
 BUILD_VERSION=0.0.1
 REGION=ap-northeast-2
-PROFILE=gaming
+PROFILE=
 
 aws gamelift upload-build \
 --operating-system "$OS" \
