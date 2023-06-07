@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LhN209mIJrJGkiFwR79ULoI2kfPY5W5JHBj1fS5iMeDaTGlvX3OzL+xVTtvJvj5SVnszUQwk2mMt5y+aF/fFiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\new\\game-server\\CommonType\\CommonType.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MZC02-WDB\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MZC02-WDB\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
