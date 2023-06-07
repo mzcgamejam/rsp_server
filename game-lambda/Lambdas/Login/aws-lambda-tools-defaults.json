@@ -1,16 +1,16 @@
 {
-  "profile": "",
-  "region": "ap-northeast-2",
+  "profile": "wdb_admin",
+  "region": "us-east-1",
   "configuration": "Debug",
   "function-runtime": "dotnet6",
   "function-name": "Login",
   "package-type": "Zip",
-  "function-role": "",
+  "function-role": "arn:aws:iam::181114285856:role/mzc-game-lambda-role",
   "tracing-mode": "PassThrough",
-  "environment-variables": "",
+  "environment-variables": "\"GAME_DB_PORT\"=\"3306\";\"GAME_DB_USER\"=\"admin\";\"GAME_DB_CHARSET\"=\"utf8\";\"GAME_DB_IP\"=\"rsp-rds.cr7eor5gm9h2.us-east-1.rds.amazonaws.com\";\"GAME_DB_DATABASE\"=\"accounts\";\"GAME_DB_PASSWORD\"=\"kosa0401!\"",
   "function-memory-size": 256,
   "function-timeout": 30,
   "function-handler": "Login::Login.Function::FunctionHandler",
-  "function-subnets": "",
-  "function-security-groups": ""
+  "function-subnets": "subnet-019ee1ae84c7d3a35,subnet-092fcd4e2ab47f02f",
+  "function-security-groups": "sg-03d3df044e48d53f2"
 }

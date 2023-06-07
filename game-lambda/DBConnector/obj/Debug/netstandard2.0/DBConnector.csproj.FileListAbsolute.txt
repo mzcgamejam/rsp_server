@@ -28,8 +28,6 @@
 /Users/mzc01-wdb/Downloads/ctc-game-server-develop/DBConnector/bin/Debug/netstandard2.0/DBConnector.runtimeconfig.dev.json
 /Users/mzc01-wdb/Downloads/ctc-game-server-develop/DBConnector/obj/Debug/netstandard2.0/DBConnector.genruntimeconfig.cache
 /Users/mzc01-wdb/Downloads/new/game-lambda/DBConnector/bin/Debug/netstandard2.0/DBConnector.deps.json
-/Users/mzc01-wdb/Downloads/new/game-lambda/DBConnector/bin/Debug/netstandard2.0/DBConnector.runtimeconfig.json
-/Users/mzc01-wdb/Downloads/new/game-lambda/DBConnector/bin/Debug/netstandard2.0/DBConnector.runtimeconfig.dev.json
 /Users/mzc01-wdb/Downloads/new/game-lambda/DBConnector/bin/Debug/netstandard2.0/DBConnector.dll
 /Users/mzc01-wdb/Downloads/new/game-lambda/DBConnector/bin/Debug/netstandard2.0/DBConnector.pdb
 /Users/mzc01-wdb/Downloads/new/game-lambda/DBConnector/bin/Debug/netstandard2.0/CommonConfig.dll
@@ -42,4 +40,6 @@
 /Users/mzc01-wdb/Downloads/new/game-lambda/DBConnector/obj/Debug/netstandard2.0/DBConnector.csproj.CopyComplete
 /Users/mzc01-wdb/Downloads/new/game-lambda/DBConnector/obj/Debug/netstandard2.0/DBConnector.dll
 /Users/mzc01-wdb/Downloads/new/game-lambda/DBConnector/obj/Debug/netstandard2.0/DBConnector.pdb
+/Users/mzc01-wdb/Downloads/new/game-lambda/DBConnector/bin/Debug/netstandard2.0/DBConnector.runtimeconfig.json
+/Users/mzc01-wdb/Downloads/new/game-lambda/DBConnector/bin/Debug/netstandard2.0/DBConnector.runtimeconfig.dev.json
 /Users/mzc01-wdb/Downloads/new/game-lambda/DBConnector/obj/Debug/netstandard2.0/DBConnector.genruntimeconfig.cache

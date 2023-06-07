@@ -70,8 +70,6 @@
 /Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonProtocol/bin/Debug/netstandard2.0/CommonProtocol.runtimeconfig.dev.json
 /Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonProtocol/obj/Debug/netstandard2.0/CommonProtocol.genruntimeconfig.cache
 /Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/bin/Debug/netstandard2.0/CommonProtocol.deps.json
-/Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/bin/Debug/netstandard2.0/CommonProtocol.runtimeconfig.json
-/Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/bin/Debug/netstandard2.0/CommonProtocol.runtimeconfig.dev.json
 /Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/bin/Debug/netstandard2.0/CommonProtocol.dll
 /Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/bin/Debug/netstandard2.0/CommonProtocol.pdb
 /Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/bin/Debug/netstandard2.0/CommonType.dll
@@ -84,4 +82,6 @@
 /Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/obj/Debug/netstandard2.0/CommonProtocol.csproj.CopyComplete
 /Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/obj/Debug/netstandard2.0/CommonProtocol.dll
 /Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/obj/Debug/netstandard2.0/CommonProtocol.pdb
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/bin/Debug/netstandard2.0/CommonProtocol.runtimeconfig.json
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/bin/Debug/netstandard2.0/CommonProtocol.runtimeconfig.dev.json
 /Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/obj/Debug/netstandard2.0/CommonProtocol.genruntimeconfig.cache
