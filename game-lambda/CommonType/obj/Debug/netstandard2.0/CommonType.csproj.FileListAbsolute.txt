@@ -54,3 +54,16 @@
 /Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonType/bin/Debug/netstandard2.0/CommonType.runtimeconfig.json
 /Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonType/bin/Debug/netstandard2.0/CommonType.runtimeconfig.dev.json
 /Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonType/obj/Debug/netstandard2.0/CommonType.genruntimeconfig.cache
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/bin/Debug/netstandard2.0/CommonType.deps.json
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/bin/Debug/netstandard2.0/CommonType.runtimeconfig.json
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/bin/Debug/netstandard2.0/CommonType.runtimeconfig.dev.json
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/bin/Debug/netstandard2.0/CommonType.dll
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/bin/Debug/netstandard2.0/CommonType.pdb
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/obj/Debug/netstandard2.0/CommonType.csproj.AssemblyReference.cache
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/obj/Debug/netstandard2.0/CommonType.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/obj/Debug/netstandard2.0/CommonType.AssemblyInfoInputs.cache
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/obj/Debug/netstandard2.0/CommonType.AssemblyInfo.cs
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/obj/Debug/netstandard2.0/CommonType.csproj.CoreCompileInputs.cache
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/obj/Debug/netstandard2.0/CommonType.dll
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/obj/Debug/netstandard2.0/CommonType.pdb
+/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/obj/Debug/netstandard2.0/CommonType.genruntimeconfig.cache

@@ -7,11 +7,13 @@
       <File FileName="Lambdas/AccountJoin/aws-lambda-tools-defaults.json" />
       <File FileName="Lambdas/Login/aws-lambda-tools-defaults.json" />
       <File FileName="Lambdas/CreateGame/Function.cs" />
-      <File FileName="GameLiftWrapper/GameLiftBackend/GameLiftBackend.cs" Line="67" Column="10" />
+      <File FileName="GameLiftWrapper/GameLiftBackend/GameLiftBackend.cs" Line="79" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="game-lambda" expanded="True" />
+        </State>
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
         <State />
