@@ -1,0 +1,28 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GameLiftWrapper/GameLiftBackend/GameLiftBackend.cs">
+    <Files>
+      <File FileName="Lambdas/CreateGame/aws-lambda-tools-defaults.json" />
+      <File FileName="Lambdas/CreatePlayer/aws-lambda-tools-defaults.json" />
+      <File FileName="Lambdas/SearchGame/aws-lambda-tools-defaults.json" />
+      <File FileName="Lambdas/AccountJoin/aws-lambda-tools-defaults.json" />
+      <File FileName="Lambdas/Login/aws-lambda-tools-defaults.json" />
+      <File FileName="Lambdas/CreateGame/Function.cs" />
+      <File FileName="GameLiftWrapper/GameLiftBackend/GameLiftBackend.cs" Line="67" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Lambda.User.Login.Tests PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

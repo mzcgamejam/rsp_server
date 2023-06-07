@@ -1,0 +1,401 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mzc01-wdb/Downloads/new/game-lambda/Lambdas/CreateGame/CreateGame.csproj": {}
+  },
+  "projects": {
+    "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonConfig/CommonConfig.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonConfig/CommonConfig.csproj",
+        "projectName": "CommonConfig",
+        "projectPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonConfig/CommonConfig.csproj",
+        "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
+        "outputPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonConfig/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mzc01-wdb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/CommonProtocol.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/CommonProtocol.csproj",
+        "projectName": "CommonProtocol",
+        "projectPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/CommonProtocol.csproj",
+        "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
+        "outputPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mzc01-wdb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/CommonType.csproj": {
+                "projectPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/CommonType.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/CommonType.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/CommonType.csproj",
+        "projectName": "CommonType",
+        "projectPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/CommonType.csproj",
+        "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
+        "outputPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mzc01-wdb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mzc01-wdb/Downloads/new/game-lambda/GameLiftWrapper/GameLiftBackend/GameLiftBackend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mzc01-wdb/Downloads/new/game-lambda/GameLiftWrapper/GameLiftBackend/GameLiftBackend.csproj",
+        "projectName": "GameLiftBackend",
+        "projectPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/GameLiftWrapper/GameLiftBackend/GameLiftBackend.csproj",
+        "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
+        "outputPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/GameLiftWrapper/GameLiftBackend/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mzc01-wdb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonConfig/CommonConfig.csproj": {
+                "projectPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonConfig/CommonConfig.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AWSSDK.GameLift": {
+              "target": "Package",
+              "version": "[3.7.0.13, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mzc01-wdb/Downloads/new/game-lambda/Lambdas/CreateGame/CreateGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mzc01-wdb/Downloads/new/game-lambda/Lambdas/CreateGame/CreateGame.csproj",
+        "projectName": "CreateGame",
+        "projectPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/Lambdas/CreateGame/CreateGame.csproj",
+        "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
+        "outputPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/Lambdas/CreateGame/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mzc01-wdb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/CommonProtocol.csproj": {
+                "projectPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/CommonProtocol.csproj"
+              },
+              "/Users/mzc01-wdb/Downloads/new/game-lambda/GameLiftWrapper/GameLiftBackend/GameLiftBackend.csproj": {
+                "projectPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/GameLiftWrapper/GameLiftBackend/GameLiftBackend.csproj"
+              },
+              "/Users/mzc01-wdb/Downloads/new/game-lambda/LambdaSerializer/LambdaSerializer.csproj": {
+                "projectPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/LambdaSerializer/LambdaSerializer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mzc01-wdb/Downloads/new/game-lambda/LambdaSerializer/LambdaSerializer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mzc01-wdb/Downloads/new/game-lambda/LambdaSerializer/LambdaSerializer.csproj",
+        "projectName": "LambdaSerializer",
+        "projectPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/LambdaSerializer/LambdaSerializer.csproj",
+        "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
+        "outputPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/LambdaSerializer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mzc01-wdb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/CommonProtocol.csproj": {
+                "projectPath": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonProtocol/CommonProtocol.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AWSSDK.Lambda": {
+              "target": "Package",
+              "version": "[3.7.0.13, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Amazon.Lambda.Serialization.Json": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

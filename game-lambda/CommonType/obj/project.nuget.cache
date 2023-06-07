@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ixwLHos1GdYx1Ib+EOEqg/J4JQovpMp50NEqxdEcnuJgIe5EhO8kCivHOK504tTThwRzofaprx3D2rCjmnwkOA==",
+  "success": true,
+  "projectFilePath": "/Users/mzc01-wdb/Downloads/new/game-lambda/CommonType/CommonType.csproj",
+  "expectedPackageFiles": [
+    "/Users/mzc01-wdb/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mzc01-wdb/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
