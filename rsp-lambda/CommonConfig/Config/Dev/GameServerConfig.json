@@ -1,0 +1,14 @@
+{
+  "DB": {
+    "IP": "database-1-instance-1.cqoanobel0pg.ap-northeast-2.rds.amazonaws.com",
+    "Port": 3306,
+    "User": "admin",
+    "Password": "Admin1!!",
+    "Charset": "utf8",
+    "Database": "accounts"
+  },
+  "GameLift": {
+    "FleetId" : "fleet-e7fbab32-fdbe-4b77-a5ad-15e778d3c39c",
+    "ServiceURL" : ""
+  }
+}

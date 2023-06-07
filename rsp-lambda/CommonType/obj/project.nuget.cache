@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dnlxf84mVMzqNshkHm9hvLTLaQZE23SCoqO+sXe6ZmA1/nN1tO0zEGLxSi1/sLoxoFfK3xQdWJkm3R4XvPgqxA==",
+  "success": true,
+  "projectFilePath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonType/CommonType.csproj",
+  "expectedPackageFiles": [
+    "/Users/mzc01-wdb/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/mzc01-wdb/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

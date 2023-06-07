@@ -1,0 +1,431 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/Lambdas/Login/Login.csproj": {}
+  },
+  "projects": {
+    "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonConfig/CommonConfig.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonConfig/CommonConfig.csproj",
+        "projectName": "CommonConfig",
+        "projectPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonConfig/CommonConfig.csproj",
+        "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
+        "outputPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonConfig/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mzc01-wdb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonProtocol/CommonProtocol.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonProtocol/CommonProtocol.csproj",
+        "projectName": "CommonProtocol",
+        "projectPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonProtocol/CommonProtocol.csproj",
+        "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
+        "outputPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonProtocol/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mzc01-wdb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonType/CommonType.csproj": {
+                "projectPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonType/CommonType.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonType/CommonType.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonType/CommonType.csproj",
+        "projectName": "CommonType",
+        "projectPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonType/CommonType.csproj",
+        "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
+        "outputPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonType/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mzc01-wdb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/DBConnector/DBConnector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/DBConnector/DBConnector.csproj",
+        "projectName": "DBConnector",
+        "projectPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/DBConnector/DBConnector.csproj",
+        "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
+        "outputPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/DBConnector/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mzc01-wdb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonConfig/CommonConfig.csproj": {
+                "projectPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonConfig/CommonConfig.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[1.2.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/Lambdas/Login/Login.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/Lambdas/Login/Login.csproj",
+        "projectName": "Login",
+        "projectPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/Lambdas/Login/Login.csproj",
+        "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
+        "outputPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/Lambdas/Login/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mzc01-wdb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonProtocol/CommonProtocol.csproj": {
+                "projectPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonProtocol/CommonProtocol.csproj"
+              },
+              "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/DBConnector/DBConnector.csproj": {
+                "projectPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/DBConnector/DBConnector.csproj"
+              },
+              "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/LambdaSerializer/LambdaSerializer.csproj": {
+                "projectPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/LambdaSerializer/LambdaSerializer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Amazon.Lambda.Serialization.SystemTextJson": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/LambdaSerializer/LambdaSerializer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/LambdaSerializer/LambdaSerializer.csproj",
+        "projectName": "LambdaSerializer",
+        "projectPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/LambdaSerializer/LambdaSerializer.csproj",
+        "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
+        "outputPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/LambdaSerializer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mzc01-wdb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "targetAlias": "netstandard2.0",
+            "projectReferences": {
+              "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonProtocol/CommonProtocol.csproj": {
+                "projectPath": "/Users/mzc01-wdb/Downloads/ctc-game-server-develop/CommonProtocol/CommonProtocol.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
+          "dependencies": {
+            "AWSSDK.Lambda": {
+              "target": "Package",
+              "version": "[3.7.0.13, )"
+            },
+            "Amazon.Lambda.Core": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Amazon.Lambda.Serialization.Json": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.408/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "linux-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
