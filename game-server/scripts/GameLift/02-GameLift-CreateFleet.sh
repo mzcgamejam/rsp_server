@@ -16,6 +16,7 @@ RUNTIME_CONFIGURATION='ServerProcesses=[
 {LaunchPath="C:\Game\BattleServer.exe",Parameters=50008,ConcurrentExecutions=1}
 ]'
 INSTANCE_ROLE_ARN=
+REGION
 PROFILE=
 
 aws gamelift create-fleet \
@@ -26,5 +27,6 @@ aws gamelift create-fleet \
 --runtime-configuration "$RUNTIME_CONFIGURATION" \
 --instance-role-arn "$INSTANCE_ROLE_ARN" \
 --ec2-inbound-permissions 'FromPort=50001,ToPort=50005,IpRange=0.0.0.0/0,Protocol=TCP' \
+--region="$REGION" \
 --profile "$PROFILE"
 
