@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CommonConfig")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("GameLiftBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CommonConfig")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CommonConfig")]
+[assembly: System.Reflection.AssemblyProductAttribute("GameLiftBackend")]
+[assembly: System.Reflection.AssemblyTitleAttribute("GameLiftBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment 클래스에서 생성되었습니다.
