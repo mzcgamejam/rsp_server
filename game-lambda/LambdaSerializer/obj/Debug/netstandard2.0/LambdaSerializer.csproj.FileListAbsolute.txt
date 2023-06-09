@@ -83,8 +83,6 @@
 /Users/mzc01-wdb/Downloads/new/game-lambda/LambdaSerializer/bin/Debug/netstandard2.0/LambdaSerializer.runtimeconfig.dev.json
 /Users/mzc01-wdb/Downloads/new/game-lambda/LambdaSerializer/obj/Debug/netstandard2.0/LambdaSerializer.genruntimeconfig.cache
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/LambdaSerializer/bin/Debug/netstandard2.0/LambdaSerializer.deps.json
-/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/LambdaSerializer/bin/Debug/netstandard2.0/LambdaSerializer.runtimeconfig.json
-/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/LambdaSerializer/bin/Debug/netstandard2.0/LambdaSerializer.runtimeconfig.dev.json
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/LambdaSerializer/bin/Debug/netstandard2.0/LambdaSerializer.dll
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/LambdaSerializer/bin/Debug/netstandard2.0/LambdaSerializer.pdb
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/LambdaSerializer/bin/Debug/netstandard2.0/CommonProtocol.dll
@@ -99,4 +97,3 @@
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/LambdaSerializer/obj/Debug/netstandard2.0/LambdaSerializer.csproj.CopyComplete
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/LambdaSerializer/obj/Debug/netstandard2.0/LambdaSerializer.dll
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/LambdaSerializer/obj/Debug/netstandard2.0/LambdaSerializer.pdb
-/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/LambdaSerializer/obj/Debug/netstandard2.0/LambdaSerializer.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "ICy6p89f9yo2G1vr6UWpP1K3nO+eFjhY11yNrp40G7wyq56nEQuREb2zMpZ8co6r99m4kW2kzvPuJyPOb4PXGg==",
+  "success": true,
+  "projectFilePath": "/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/Lambdas/CreateGame/CreateGame.csproj",
+  "expectedPackageFiles": [
+    "/Users/mzc01-wdb/.nuget/packages/amazon.lambda.core/2.0.0/amazon.lambda.core.2.0.0.nupkg.sha512",
+    "/Users/mzc01-wdb/.nuget/packages/amazon.lambda.serialization.json/2.0.0/amazon.lambda.serialization.json.2.0.0.nupkg.sha512",
+    "/Users/mzc01-wdb/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.1.0/amazon.lambda.serialization.systemtextjson.2.1.0.nupkg.sha512",
+    "/Users/mzc01-wdb/.nuget/packages/awssdk.core/3.7.0.14/awssdk.core.3.7.0.14.nupkg.sha512",
+    "/Users/mzc01-wdb/.nuget/packages/awssdk.gamelift/3.7.0.13/awssdk.gamelift.3.7.0.13.nupkg.sha512",
+    "/Users/mzc01-wdb/.nuget/packages/awssdk.lambda/3.7.0.13/awssdk.lambda.3.7.0.13.nupkg.sha512",
+    "/Users/mzc01-wdb/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
