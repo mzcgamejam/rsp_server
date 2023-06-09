@@ -1,0 +1,14 @@
+{
+  "DB": {
+    "IP": "127.0.0.1",
+    "Port": 3306,
+    "User": "root",
+    "Password": "fnfntdh31!#!",
+    "Charset": "utf8",
+    "Database": "accounts"
+  },
+  "GameLift": {
+    "FleetId" : "fleet-e7fbab32-fdbe-4b77-a5ad-15e778d3c39c",
+    "ServiceURL" : "127.0.0.1:9080"
+  }
+}
