@@ -3,3 +3,4 @@ config.json
 .vs/
 Lambdas/*/bin/Debug/net6.0/*
 Lambdas/*/obj/Debug/net6.0/*
+GameLiftWrapper/GameLiftBackend/bin/Debug/netstandard/*
