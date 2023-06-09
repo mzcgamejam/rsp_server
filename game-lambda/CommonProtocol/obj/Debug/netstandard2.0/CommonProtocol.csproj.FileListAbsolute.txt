@@ -98,3 +98,6 @@
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/CommonProtocol/obj/Debug/netstandard2.0/CommonProtocol.csproj.CopyComplete
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/CommonProtocol/obj/Debug/netstandard2.0/CommonProtocol.dll
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/CommonProtocol/obj/Debug/netstandard2.0/CommonProtocol.pdb
+/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/CommonProtocol/bin/Debug/netstandard2.0/CommonProtocol.runtimeconfig.json
+/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/CommonProtocol/bin/Debug/netstandard2.0/CommonProtocol.runtimeconfig.dev.json
+/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/CommonProtocol/obj/Debug/netstandard2.0/CommonProtocol.genruntimeconfig.cache

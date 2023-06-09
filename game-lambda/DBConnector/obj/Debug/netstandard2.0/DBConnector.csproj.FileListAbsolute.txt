@@ -56,3 +56,6 @@
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/DBConnector/obj/Debug/netstandard2.0/DBConnector.csproj.CopyComplete
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/DBConnector/obj/Debug/netstandard2.0/DBConnector.dll
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/DBConnector/obj/Debug/netstandard2.0/DBConnector.pdb
+/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/DBConnector/bin/Debug/netstandard2.0/DBConnector.runtimeconfig.json
+/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/DBConnector/bin/Debug/netstandard2.0/DBConnector.runtimeconfig.dev.json
+/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/DBConnector/obj/Debug/netstandard2.0/DBConnector.genruntimeconfig.cache

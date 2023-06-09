@@ -77,3 +77,6 @@
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/CommonType/obj/Debug/netstandard2.0/CommonType.csproj.CoreCompileInputs.cache
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/CommonType/obj/Debug/netstandard2.0/CommonType.dll
 /Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/CommonType/obj/Debug/netstandard2.0/CommonType.pdb
+/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/CommonType/bin/Debug/netstandard2.0/CommonType.runtimeconfig.json
+/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/CommonType/bin/Debug/netstandard2.0/CommonType.runtimeconfig.dev.json
+/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-lambda/CommonType/obj/Debug/netstandard2.0/CommonType.genruntimeconfig.cache
