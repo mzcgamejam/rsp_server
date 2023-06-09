@@ -1,5 +1,7 @@
 config.json
 .DS_Store
 .vs/
-bin/Debug/net6.0/
-obj/*
+Lambdas/*/bin/Debug/net6.0/*
+Lambdas/*/obj/Debug/net6.0/*
+*.dll
+*.pdb
