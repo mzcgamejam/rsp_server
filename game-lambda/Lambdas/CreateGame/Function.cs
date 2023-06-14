@@ -12,13 +12,11 @@ namespace CreateGame
     {
         public async Task<ResCreateGame> FunctionHandler(ReqCreateGame req, ILambdaContext context)
         {
-            Console.WriteLine("call");
             var res = new ResCreateGame
             {
                 ResponseType = ResponseType.Fail
             };
             var client = new GameLiftBackend();
-            Console.WriteLine("client", client);
             var glGameSessionRes = await client.CreateGameSessionAsync(req.GameName);
             Console.WriteLine("gamesessionres", glGameSessionRes);
             
