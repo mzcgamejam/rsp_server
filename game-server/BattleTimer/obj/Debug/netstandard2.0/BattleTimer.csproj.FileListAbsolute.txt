@@ -38,3 +38,13 @@ C:\Users\MZC02-WDB\Desktop\rsp-server\BattleTimer\obj\Debug\netstandard2.0\Battl
 C:\Users\MZC02-WDB\Desktop\rsp-server\BattleTimer\obj\Debug\netstandard2.0\BattleTimer.csproj.CoreCompileInputs.cache
 C:\Users\MZC02-WDB\Desktop\rsp-server\BattleTimer\obj\Debug\netstandard2.0\BattleTimer.dll
 C:\Users\MZC02-WDB\Desktop\rsp-server\BattleTimer\obj\Debug\netstandard2.0\BattleTimer.pdb
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleTimer\bin\Debug\netstandard2.0\BattleTimer.deps.json
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleTimer\bin\Debug\netstandard2.0\BattleTimer.dll
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleTimer\bin\Debug\netstandard2.0\BattleTimer.pdb
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleTimer\obj\Debug\netstandard2.0\BattleTimer.csproj.AssemblyReference.cache
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleTimer\obj\Debug\netstandard2.0\BattleTimer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleTimer\obj\Debug\netstandard2.0\BattleTimer.AssemblyInfoInputs.cache
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleTimer\obj\Debug\netstandard2.0\BattleTimer.AssemblyInfo.cs
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleTimer\obj\Debug\netstandard2.0\BattleTimer.csproj.CoreCompileInputs.cache
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleTimer\obj\Debug\netstandard2.0\BattleTimer.dll
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleTimer\obj\Debug\netstandard2.0\BattleTimer.pdb

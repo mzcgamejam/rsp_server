@@ -61,3 +61,13 @@ C:\Users\MZC02-WDB\Desktop\rsp-server\CommonType\obj\Debug\netstandard2.0\Common
 C:\Users\MZC02-WDB\Desktop\rsp-server\CommonType\obj\Debug\netstandard2.0\CommonType.csproj.CoreCompileInputs.cache
 C:\Users\MZC02-WDB\Desktop\rsp-server\CommonType\obj\Debug\netstandard2.0\CommonType.dll
 C:\Users\MZC02-WDB\Desktop\rsp-server\CommonType\obj\Debug\netstandard2.0\CommonType.pdb
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\CommonType\bin\Debug\netstandard2.0\CommonType.deps.json
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\CommonType\bin\Debug\netstandard2.0\CommonType.dll
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\CommonType\bin\Debug\netstandard2.0\CommonType.pdb
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\CommonType\obj\Debug\netstandard2.0\CommonType.csproj.AssemblyReference.cache
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\CommonType\obj\Debug\netstandard2.0\CommonType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\CommonType\obj\Debug\netstandard2.0\CommonType.AssemblyInfoInputs.cache
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\CommonType\obj\Debug\netstandard2.0\CommonType.AssemblyInfo.cs
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\CommonType\obj\Debug\netstandard2.0\CommonType.csproj.CoreCompileInputs.cache
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\CommonType\obj\Debug\netstandard2.0\CommonType.dll
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\CommonType\obj\Debug\netstandard2.0\CommonType.pdb

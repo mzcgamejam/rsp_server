@@ -766,32 +766,34 @@
     ]
   },
   "packageFolders": {
-    "/Users/mzc01-wdb/.nuget/packages/": {}
+    "C:\\Users\\MZC02-WDB\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-server/BattleProtocol/BattleProtocol.csproj",
+      "projectUniqueName": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\BattleProtocol\\BattleProtocol.csproj",
       "projectName": "BattleProtocol",
-      "projectPath": "/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-server/BattleProtocol/BattleProtocol.csproj",
-      "packagesPath": "/Users/mzc01-wdb/.nuget/packages/",
-      "outputPath": "/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-server/BattleProtocol/obj/",
+      "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\BattleProtocol\\BattleProtocol.csproj",
+      "packagesPath": "C:\\Users\\MZC02-WDB\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\BattleProtocol\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/mzc01-wdb/.config/NuGet/NuGet.Config"
+        "C:\\Users\\MZC02-WDB\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "targetAlias": "netstandard2.0",
           "projectReferences": {
-            "/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-server/CommonType/CommonType.csproj": {
-              "projectPath": "/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-server/CommonType/CommonType.csproj"
+            "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonType\\CommonType.csproj": {
+              "projectPath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonType\\CommonType.csproj"
             }
           }
         }
@@ -823,11 +825,12 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/Users/mzc01-wdb/Library/Caches/VisualStudio/17.0/MSBuild/2021_3/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }

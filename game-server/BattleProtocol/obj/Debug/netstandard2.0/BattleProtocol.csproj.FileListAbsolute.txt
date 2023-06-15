@@ -50,3 +50,16 @@ C:\Users\MZC02-WDB\Desktop\rsp-server\BattleProtocol\obj\Debug\netstandard2.0\Ba
 C:\Users\MZC02-WDB\Desktop\rsp-server\BattleProtocol\obj\Debug\netstandard2.0\BattleProtocol.csproj.CopyComplete
 C:\Users\MZC02-WDB\Desktop\rsp-server\BattleProtocol\obj\Debug\netstandard2.0\BattleProtocol.dll
 C:\Users\MZC02-WDB\Desktop\rsp-server\BattleProtocol\obj\Debug\netstandard2.0\BattleProtocol.pdb
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\bin\Debug\netstandard2.0\BattleProtocol.deps.json
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\bin\Debug\netstandard2.0\BattleProtocol.dll
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\bin\Debug\netstandard2.0\BattleProtocol.pdb
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\bin\Debug\netstandard2.0\CommonType.dll
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\bin\Debug\netstandard2.0\CommonType.pdb
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\obj\Debug\netstandard2.0\BattleProtocol.csproj.AssemblyReference.cache
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\obj\Debug\netstandard2.0\BattleProtocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\obj\Debug\netstandard2.0\BattleProtocol.AssemblyInfoInputs.cache
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\obj\Debug\netstandard2.0\BattleProtocol.AssemblyInfo.cs
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\obj\Debug\netstandard2.0\BattleProtocol.csproj.CoreCompileInputs.cache
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\obj\Debug\netstandard2.0\BattleProtocol.csproj.CopyComplete
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\obj\Debug\netstandard2.0\BattleProtocol.dll
+C:\Users\MZC02-WDB\Desktop\rsp-server\game-server\BattleProtocol\obj\Debug\netstandard2.0\BattleProtocol.pdb

@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "JX5im3pfR1QQZcm+tG8O/LZr/k7um2wx0DmX5rVD0jEg6XikZhKUAKvxvyIpFYn+GqduZHxvAv5/DCPnryLQ+A==",
+  "dgSpecHash": "KoTqzgIkl/WHmosTH3xNWZtEVVjxWUae/CVvPIP33b/XwW1q8Qc0aDbZurmxImTv9zTVgyDykQT2kwn+tLR8SQ==",
   "success": true,
-  "projectFilePath": "/Users/mzc01-wdb/Desktop/mzc/team/rsp/rsp-server/game-server/CommonProtocol/CommonProtocol.csproj",
+  "projectFilePath": "C:\\Users\\MZC02-WDB\\Desktop\\rsp-server\\game-server\\CommonProtocol\\CommonProtocol.csproj",
   "expectedPackageFiles": [
-    "/Users/mzc01-wdb/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "/Users/mzc01-wdb/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
-    "/Users/mzc01-wdb/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\MZC02-WDB\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\MZC02-WDB\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\MZC02-WDB\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }
