@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -30,8 +30,7 @@ namespace BattleServer
             var result = Server.BattleServer.Instance.Setup(new ServerConfig
             {
                 Ip = "0.0.0.0",
-                //Port = int.Parse(args[0]),
-                Port = 50001,
+                Port = int.Parse(args[0]),
                 Mode = SocketMode.Tcp,
                 MaxConnectionNumber = 3000,
                 ReceiveBufferSize = 4096,
@@ -54,8 +53,7 @@ namespace BattleServer
             Server.BattleServer.Instance.Start();
             
             var gamelift = new GameLiftNetwork();
-            //gamelift.Init(int.Parse(args[0]));
-            gamelift.Init(50001);
+            gamelift.Init(int.Parse(args[0]));
             terminatingEvent.WaitOne();
             gamelift.Ending();
         }
