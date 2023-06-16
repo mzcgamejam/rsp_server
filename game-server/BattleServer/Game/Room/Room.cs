@@ -236,28 +236,14 @@ namespace BattleServer.Game
         }
 
         public void BattleResultSendToSQS(PlayerType winPlayer)
-        {
+        {   
             var sqsConfig = new AmazonSQSConfig();
-            //sqsConfig.ServiceURL = "https://sqs.ap-northeast-2.amazonaws.com/961770019511/ctc-game-sqs";
-            sqsConfig.ServiceURL = Config.ConfigManager.sqsUrl;
-            sqsConfig.RegionEndpoint = RegionEndpoint.APNortheast2;
 
-            //string roleARN = "arn:aws:iam::961770019511:role/mzc-game-gamelift-fleet-role";
-            //var credential = new BasicAWSCredentials("AKIA573PV3K3VJOHD4XI", "gZKTTYi4iYClc/5TXDGnVrv3KKC3KGK6KlEi6b8U");
+            sqsConfig.ServiceURL = ConfigManager.sqsUrl;
+            sqsConfig.RegionEndpoint = RegionEndpoint.GetBySystemName(ConfigManager.region);
+
             var credential = new BasicAWSCredentials(ConfigManager.accessKey, ConfigManager.secretKey);
             var sqsClient = new AmazonSQSClient(credential, sqsConfig);
-
-            //InstanceProfileAWSCredentials instanceCredentials = new InstanceProfileAWSCredentials();
-            //AmazonSecurityTokenServiceClient stsClient = new AmazonSecurityTokenServiceClient(instanceCredentials);
-            //AssumeRoleRequest assumeRoleRequest = new AssumeRoleRequest
-            //{
-            //    RoleArn = roleARN,
-            //    RoleSessionName = "test_session",
-            //};
-            //var assumeRoleResponse = stsClient.AssumeRole(assumeRoleRequest);
-            //var credentials = assumeRoleResponse.Credentials;
-
-            //var sqsClient = new AmazonSQSClient(credential, sqsConfig);
 
             SQSClientSendMessage(sqsClient, PlayerType.Player1, winPlayer);
             SQSClientSendMessage(sqsClient, PlayerType.Player2, winPlayer);
@@ -269,8 +255,7 @@ namespace BattleServer.Game
             {
                 try
                 {
-                    sqsClient.SendMessage(new SendMessageRequest(ConfigManager.sqsUrl,
-                   //"https://sqs.ap-northeast-2.amazonaws.com/961770019511/ctc-game-sqs",
+                   sqsClient.SendMessage(new SendMessageRequest(ConfigManager.sqsUrl,
                    JsonConvert.SerializeObject(new CommonProtocol.SqsBattleResult
                    {
                        UserId = _players[player].Session.UserId,

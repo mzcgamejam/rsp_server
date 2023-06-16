@@ -1,3 +1,4 @@
+using Amazon;
 using System;
 using System.Collections.Generic;
 using System.Diagnostics;
@@ -10,6 +11,8 @@ using BattleServer.GameLift;
 using SuperSocket.SocketBase;
 using SuperSocket.SocketBase.Config;
 using BattleServer.Config;
+using BattleServer.Game;
+using CommonType;
 
 namespace BattleServer
 {
@@ -22,7 +25,7 @@ namespace BattleServer
             AppDomain.CurrentDomain.ProcessExit += CurrentDomain_ProcessExit;
             Console.CancelKeyPress += OnConsoleKeyPress;
 
-            Config.ConfigManager.SetConfiguration();
+            ConfigManager.SetConfiguration();
 
             //https://docs.supersocket.net/v1-6/en-US/SuperSocket-Basic-Configuration
             //https://www.slideshare.net/jacking/kgc-2016-super-socket
@@ -30,6 +33,7 @@ namespace BattleServer
             var result = Server.BattleServer.Instance.Setup(new ServerConfig
             {
                 Ip = "0.0.0.0",
+                //Port = 50001,
                 Port = int.Parse(args[0]),
                 Mode = SocketMode.Tcp,
                 MaxConnectionNumber = 3000,
@@ -42,7 +46,7 @@ namespace BattleServer
                 IdleSessionTimeOut = 600,
                 SyncSend = false,
                 Name = "Battle Server"
-            });
+            }); ;
 
             if (false == result)
             {
@@ -53,6 +57,7 @@ namespace BattleServer
             Server.BattleServer.Instance.Start();
             
             var gamelift = new GameLiftNetwork();
+            //gamelift.Init(50001);
             gamelift.Init(int.Parse(args[0]));
             terminatingEvent.WaitOne();
             gamelift.Ending();
