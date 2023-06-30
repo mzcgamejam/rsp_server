@@ -29,4 +29,3 @@ aws gamelift create-fleet \
 --ec2-inbound-permissions 'FromPort=50001,ToPort=50005,IpRange=0.0.0.0/0,Protocol=TCP' \
 --region="$REGION" \
 --profile "$PROFILE"
-

@@ -28,7 +28,6 @@ namespace BattleServer.GameLift
                     Console.WriteLine("ProcessReady Success");
                 }
             }
-                
         }
 
         public void Ending()

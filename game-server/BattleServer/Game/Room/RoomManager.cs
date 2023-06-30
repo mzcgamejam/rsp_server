@@ -3,6 +3,7 @@ using BattleServer.Server;
 using CommonType;
 using System;
 using System.Collections.Concurrent;
+using System.IO;
 
 namespace BattleServer.Game
 {

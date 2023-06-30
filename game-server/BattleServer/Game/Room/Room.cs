@@ -244,6 +244,7 @@ namespace BattleServer.Game
 
             var credential = new BasicAWSCredentials(ConfigManager.accessKey, ConfigManager.secretKey);
             var sqsClient = new AmazonSQSClient(credential, sqsConfig);
+            //var sqsClient = new AmazonSQSClient(sqsConfig);
 
             SQSClientSendMessage(sqsClient, PlayerType.Player1, winPlayer);
             SQSClientSendMessage(sqsClient, PlayerType.Player2, winPlayer);
