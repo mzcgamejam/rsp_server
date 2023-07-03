@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<Relationships xmlns="http://schemas.openxmlformats.org/package/2006/relationships">
-  <Relationship Type="http://schemas.microsoft.com/packaging/2010/07/manifest" Target="/AWSSDK.GameLift.nuspec" Id="RBDEB475C1EE5ADE6" />
-  <Relationship Type="http://schemas.openxmlformats.org/package/2006/relationships/metadata/core-properties" Target="/package/services/metadata/core-properties/a7bc5326cf5546edbc289ae35f95bc16.psmdcp" Id="RD759B1FCB457B3F0" />
-</Relationships>
