@@ -18,7 +18,7 @@ namespace BattleServer.GameLift
                 port,
                 new LogParameters(new List<string>()
                 {
-                    "C:\\Game\\myserver.txt"
+                    "C:\\Game\\game_server_log.txt"
                 }));
 
             if (GameLiftServerAPI.InitSDK().Success)
@@ -43,13 +43,6 @@ namespace BattleServer.GameLift
             Server.BattleServer.Instance.Dispose();
             Environment.Exit(0);
         }
-
-        //public static void WaitProcessEnding()
-        //{
-        //    Console.WriteLine("Process Exit.");
-        //    Server.BattleServer.Instance.Dispose();
-        //    Environment.Exit(0);
-        //}
 
         public void OnGameSession(GameSession gameSession)
         {

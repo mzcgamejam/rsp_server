@@ -21,7 +21,7 @@ namespace BattleServer.Controller.Controllers
             Debug.WriteLine("BattleProvoke Debug");
 
 
-            using (StreamWriter outputFile = new StreamWriter(@"C:\Game\myserver222.txt", true))
+            using (StreamWriter outputFile = new StreamWriter(@"C:\Game\game_server_log.txt", true))
             {
                 outputFile.WriteLine("BattleProvoke");
             }

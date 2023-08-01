@@ -252,7 +252,7 @@ namespace BattleServer.Game
         
         private void SQSClientSendMessage(AmazonSQSClient sqsClient, PlayerType player, PlayerType winPlayer)
         {
-            using (StreamWriter outputFile = new StreamWriter(@"C:\Game\myserver.txt`"))
+            using (StreamWriter outputFile = new StreamWriter(@"C:\Game\game_server_log.txt`"))
             {
                 try
                 {
