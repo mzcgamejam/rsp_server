@@ -5,7 +5,7 @@ GAME_SERVER_PATH=\\BattleServer\\bin\\Debug
 FULL_BUILD_PATH="$PROJECT_PATH""$GAME_SERVER_PATH"
 # Set variables to suit your development environment
 OS=WINDOWS_2016
-BUILD_NAME=BattleServer_0808
+BUILD_NAME=BattleServer_0828
 BUILD_VERSION=0.0.1
 REGION=ap-northeast-1
 PROFILE=gaming
